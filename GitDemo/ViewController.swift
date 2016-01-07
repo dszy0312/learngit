@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("\(a)")
         
         print("新的分支")
+        print("这是一个新的开始")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
